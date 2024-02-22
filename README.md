@@ -1,2 +1,3 @@
 42 STUDENT
-![image](https://github.com/LorenzoTrapani/LorenzoTrapani/assets/127484416/68256c41-78f1-4ed8-a54c-21f73550c6d4)
+![image](https://github.com/LorenzoTrapani/LorenzoTrapani/assets/127484416/2a86a395-5f3b-428e-8661-176c03c8f18a)
+
