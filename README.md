@@ -1,4 +1,3 @@
-# 42-Student lotrapan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoTrapani&layout=compact&theme=radical)
 
@@ -9,4 +8,5 @@
 </div>
 </td><td valign="top" width="50%">
 
+42-Student lotrapan
 - Email: [lorenzotrapani00@gmail.com](lorenzotrapani00@gmail.com)
