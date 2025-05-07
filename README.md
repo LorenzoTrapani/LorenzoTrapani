@@ -1,6 +1,6 @@
 <div align="center">
     <h1>⚙️ Lorenzo Trapani</h1>
-    <p>👋Welcome! I am a programming and technology enthusiast with a strong passion for <strong>Artificial Intelligence</strong> and <strong>Robotics</strong>, always looking for new challenges to tackle.</p>
+    <p>👋Welcome! I am a programming and technology enthusiast with a strong passion for <strong>DevOps</strong> and <strong>Artificial Intelligence</strong>.</p>
 </div>
 
 ## 📊 Statistics
