@@ -10,7 +10,7 @@
 ## 🛠️ Languages and Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,py,ubuntu,bash,linux,git,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,ubuntu,linux,git,docker,jenkins,prisma,html,css,javascript,typescript" />
   </a>
 </p>
 
