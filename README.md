@@ -60,8 +60,6 @@
     <p><strong>42 Student:</strong> <code>lotrapan</code></p>
 </div>
 
-<div align="center">
-    <i>"Security is not a product, but a process" - Bruce Schneier</i>
-<br><br>
+
 </div>
 
