@@ -41,7 +41,7 @@
     <a href="mailto:lorenzotrapani00@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-lorenzotrapani00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="[IL_TUO_LINK_LINKEDIN]" target="_blank">
+    <a href="https://www.linkedin.com/in/lorenzo-trapani/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Lorenzo%20Trapani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
