@@ -1,9 +1,7 @@
 <div align="center">
     <h1>⚙️ Lorenzo Trapani</h1>
-    <p>👋 Welcome! I am a programming and technology enthusiast with a strong passion for <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
+    <p>Welcome! I am a programming and technology enthusiast with a strong passion for <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
 </div>
-
-## **🎯 About Me**
 
 🔒 **CyberSecurity** enthusiast focused on secure coding practices and system hardening  
 🛠️ **DevOps** practitioner automating workflows and optimizing deployment pipelines  
@@ -17,28 +15,20 @@
 
 ## **🛠️ Tech Stack**
 
-### **Programming Languages**
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,javascript,typescript" />
-</p>
-
 ### **DevOps & Infrastructure**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" />
+</p>
+
+### **System & Programming**
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,ubuntu" />
 </p>
 
 ### **Web Technologies**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,prisma" />
 </p>
-
-### **Currently Learning**
-🔐 Penetration Testing methodologies  
-☸️ Kubernetes orchestration  
-🏗️ Infrastructure as Code (Terraform)  
-🔍 Security auditing tools
-
-## **🏆 Achievements**
 
 🎓 **42 School Student** - Rigorous peer-to-peer learning environment  
 🛡️ Focus on **secure coding practices** and **system security**  
