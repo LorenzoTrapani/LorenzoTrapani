@@ -32,7 +32,6 @@
 
 🎓 **42 School Student** - Rigorous peer-to-peer learning environment  
 🛡️ Focus on **secure coding practices** and **system security**  
-🔧 Experience with **CI/CD pipeline** implementation  
 🐧 Proficient in **Linux system administration**
 
 ## **📬 Contact**
