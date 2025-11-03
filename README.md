@@ -1,6 +1,6 @@
 <div align="center">
     <h1>⚙️ Lorenzo Trapani</h1>
-    <p>Welcome! I am a programming and technology enthusiast with a strong passion for <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
+    <p>Welcome! I am a programming and technology student with a strong passion for <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
 </div>
 
 🔒 **CyberSecurity** enthusiast focused on secure coding practices and system hardening  
