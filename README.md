@@ -1,19 +1,14 @@
 <div align="center">
-    <h1>⚙️ Lorenzo Trapani</h1>
-    <p>Welcome! I am a programming and technology student with a strong passion for <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
+    <h1>Lorenzo Trapani</h1>
+    <p>I'm a programming and technology student and my interests are <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
 </div>
 
 🔒 **CyberSecurity** enthusiast focused on secure coding practices and system hardening  
 🛠️ **DevOps** practitioner automating workflows and optimizing deployment pipelines  
 🎓 **42 School Student** (lotrapan) - Learning through peer-to-peer collaboration
 
-## **📊 GitHub Statistics**
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoTrapani&layout=compact&theme=radical&langs_count=8"/>
-</div>
-
-## **🛠️ Tech Stack**
+## **Tech Stack**
 
 ### **DevOps & Infrastructure**
 <p align="center">
