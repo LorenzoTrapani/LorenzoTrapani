@@ -3,12 +3,8 @@
     <p>I'm a programming and technology student and my interests are <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
 </div>
 
-🔒 **CyberSecurity** enthusiast focused on secure coding practices and system hardening  
-🛠️ **DevOps** practitioner automating workflows and optimizing deployment pipelines  
-🎓 **42 School Student** (lotrapan) - Learning through peer-to-peer collaboration
-
-
 ## **Tech Stack**
+<div align="center">
 
 ### **DevOps & Infrastructure**
 <p align="center">
@@ -25,9 +21,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,prisma" />
 </p>
 
-🎓 **42 School Student** - Rigorous peer-to-peer learning environment  
 🛡️ Focus on **secure coding practices** and **system security**  
 🐧 Proficient in **Linux system administration**
+
+</div>
 
 ## **📬 Contact**
 
