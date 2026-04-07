@@ -17,7 +17,7 @@
 
 ### **DevOps & Infrastructure**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 </p>
 
 ### **System & Programming**
