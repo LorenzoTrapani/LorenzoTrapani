@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Lorenzo Trapani</h1>
-    <p>I'm a programming and technology student and my interests are <strong>DevOps</strong> and <strong>CyberSecurity</strong>.</p>
+    <p>I'm a programming student specializing in <strong>DevOps</strong> and <strong>CyberSecurity</strong></p>
 </div>
 
 ## **Tech Stack**
